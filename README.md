@@ -1,5 +1,9 @@
 Hey future web wizards! Let's get your digital wizard tower set up with all the magical tools you'll need. We're talking about your digital workspace today—where you'll conjure code and collaborate with fellow apprentices.
 
+### Objective
+
+In order to facilitate seamless communication and collaboration, students will learn to navigate and utilize Slack, and configure Zoom for screen sharing on Mac.
+
 ### Mastering Communication Tools
 
 First off, you're going to become a communication ninja with Slack and Zoom. Why? Because even wizards need to talk to their guild!

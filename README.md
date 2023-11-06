@@ -16,6 +16,8 @@ First off, you're going to become a communication ninja with Slack and Zoom. Why
 
 - **Zoom**: Change your Zoom name to match Slack to avoid any identity mix-ups. Then, make sure Zoom can show your screen to the class by giving it the right permissions in your Mac's System Preferences. You can do this in your System Preferences. Select the ```Security & Privacy``` option, click the ```Privacy tab```, scroll down to ```Screen Recording```, and finally **check the option for zoom.us.**
 
+![desk](https://github.com/nayaba/pw-organizing/assets/9198401/ff246ac8-709d-4f92-8d35-f91d44be56b5)
+
 ### Organizing the Learning Environment
 
 Next, let’s talk about your workspace.

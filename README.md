@@ -43,3 +43,5 @@ Now, here’s some real magic: keyboard shortcuts. These are like secret incanta
 - **Windows + .(period)**: Open the emoji panel.
 
 Remember, young sorcerer, setting up your digital space is like preparing for a grand quest. Get these basics down, and you'll be casting JavaScript spells like a pro in no time! 🧙‍♂️✨🖥️
+
+[Back to the Wiki](https://github.com/nayaba/pw-wiki)

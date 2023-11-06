@@ -4,7 +4,7 @@ Hey future web wizards! Let's get your digital wizard tower set up with all the 
 
 First off, you're going to become a communication ninja with Slack and Zoom. Why? Because even wizards need to talk to their guild!
 
-- **Slack**: You'll grab the desktop app and join the "GA Immersive Students" space. Get it on your phone, too, so you can cast spells on the go. Set up your profile with a pic and your name (don't forget those pronouns) so we know who's casting the awesome code spells.
+- **Slack**: You'll grab the [desktop app](https://slack.com/intl/en-in/downloads) and join the ["GA Immersive Students"](http://ga-students.slack.com) space. Get it on your phone, too, so you can cast spells on the go. Set up your profile with a pic and your name (don't forget those pronouns) so we know who's casting the awesome code spells.
   - Pro Tip: Message yourself on Slack. It's like sending an owl to yourself with reminders. And for the note-takers, typing beats quill and ink every time. But keep a stack of sticky notes for those spells—I mean commands—you can't forget. And use those “code blocks” in Slack when sharing your magic formulas!
   - [Check out this video overview of Slack](https://youtu.be/Yt66-u5UVOM?si=j5HBcGkXOht3MoOn)
 

@@ -1,3 +1,5 @@
+# Organizing Your Learning Tools
+
 ![code-wizard2](https://github.com/nayaba/pw-organizing/assets/9198401/019d9af8-08ce-4b35-b440-8f7e26dbe108)
 
 Hey future web wizards! Let's get your digital wizard tower set up with all the magical tools you'll need. We're talking about your digital workspace today—where you'll conjure code and collaborate with fellow apprentices.

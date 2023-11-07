@@ -26,6 +26,19 @@ Next, let’s talk about your workspace.
 
 - **Digital Clean-Up**: Arrange your digital desktop like a pro. You'll be juggling lots of windows, so let's make it snappy with [Rectangle for Mac](https://www.youtube.com/watch?v=y_s6gqWeuVc) or [snapping layouts on Windows 11](https://www.youtube.com/watch?v=b11saSsXwPs). This will let you organize your windows with a flick of the wrist (or a click of the mouse).
 
+<img width="2240" alt="slack-plus-code-plus-app" src="https://github.com/nayaba/pw-organizing/assets/9198401/a86039af-f511-4ded-b9e4-3b81540de580">
+
+Above we have an example of a desktop setup using Rectangle or Snapping Layouts.  Let's break down an ace setup:
+
+- **Bottom Left - Communication Hub**: Keep Slack open down here. It's your lifeline to the class. Not only will your instructor share links and resources, but it's also where you can fire off questions faster than a compiler can spit out errors. Make friends with the Parking Lot or Questions channel to keep the convo flowing.
+
+- **Top Left - The Window to Your Work**: This spot is reserved for a browser window where you can preview the app you're crafting. Or it could be where you park the written lesson for those times you need to snag a code snippet on the fly.
+
+- **Right Side - Code Central**: Dedicate the right side of your screen to your code editor. This is your creative corner, where you'll be coding in tandem with your instructor. Sometimes it's going to be VSCode, other times an in-browser editor like CodePen. 
+
+And here's a pro tip: Embrace the power of a second monitor. Zoom on one, work on the other. It's a game-changer. No second screen? An iPad or any tablet can be your wingman. Trust us, it's a wise move—you'll thank yourself for the extra real estate when you're deep-diving into code and need to keep an eye on the lesson. Don't shortchange your learning experience; a second screen isn't just nice, it's essential.
+
+
 ### Keyboard Shortcuts for Mac and Windows
 
 Now, here’s some real magic: keyboard shortcuts. These are like secret incantations to make your computer do your bidding instantly.  As was mentioned earlier, jot any shortcuts you want to remember down on a sticky note and keep it near your computer.

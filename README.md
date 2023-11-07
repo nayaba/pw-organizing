@@ -16,7 +16,7 @@ First off, you're going to become a communication ninja with Slack and Zoom. Why
   - Pro Tip: Direct message yourself on Slack as your primary note-taking during class - forget trying to hand write notes, typing beats quill and ink every time. Also keep a stack of sticky notes handy for those spells—I mean commands—you can't forget. And use [“code blocks”](https://youtu.be/tRIIk22GylE?si=4fvUU2VYxQzWVUkU) in Slack when sharing your code!
   - If Slack is completely new to you, [check out this video overview](https://youtu.be/Yt66-u5UVOM?si=j5HBcGkXOht3MoOn)
 
-- **Zoom**: Change your Zoom name to match Slack to avoid any identity mix-ups. Then, make sure Zoom can show your screen to the class by giving it the right permissions in your Mac's System Preferences. You can do this in your System Preferences. Select the ```Security & Privacy``` option, click the ```Privacy tab```, scroll down to ```Screen Recording```, and finally **check the option for zoom.us.**
+- **Zoom**: Change your Zoom name to match Slack to avoid any identity mix-ups. Then, make sure Zoom can show your screen to the class by giving it the right permissions in your Mac's System Preferences. You can do this by selecting the ```Security & Privacy``` option, click the ```Privacy tab```, scroll down to ```Screen Recording```, and finally **check the option for zoom.us.**
 
 ![desk](https://github.com/nayaba/pw-organizing/assets/9198401/ff246ac8-709d-4f92-8d35-f91d44be56b5)
 
